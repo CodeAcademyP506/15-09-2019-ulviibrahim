@@ -1,0 +1,7 @@
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\bin\Debug\phone_Contacts.exe.config
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\bin\Debug\phone_Contacts.exe
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\bin\Debug\phone_Contacts.pdb
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\obj\Debug\phone_Contacts.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\obj\Debug\phone_Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\obj\Debug\phone_Contacts.exe
+C:\Users\Ulvi\source\repos\phone_Contacts\phone_Contacts\obj\Debug\phone_Contacts.pdb

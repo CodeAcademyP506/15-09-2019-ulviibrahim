@@ -1,0 +1,6 @@
+Besir,Nagiyev,509932013, Badam D'Art
+Ulvi,Ibrahimov,519980797,Socar
+Nurlan,Huseynov,706987361,CodeAcademy
+Kamal,Mirzeyev,557893641,CodeAcademy
+Ayxan,Enverli,125447896,CodeAcademy
+Resul,Mentor,556457931,CodeAcademy
